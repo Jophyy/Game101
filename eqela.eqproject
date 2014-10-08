@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Game101
+#
+
+projectname: Game101
+vendorid: com.Game101.mycompany
+mainmodule: com.Game101.mycompany.game101

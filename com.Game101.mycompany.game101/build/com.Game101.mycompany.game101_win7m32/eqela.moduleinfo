@@ -1,0 +1,11 @@
+ldflags: -lcom.eqela.libspriteengine -lcom.eqela.libimage -lcom.eqela.libguiengine -lcom.eqela.libdirect2dgui -lcom.eqela.libvg -lcom.eqela.libwin32gui -lcom.eqela.libgui -lcom.eqela.libbackgroundtask -lcom.eqela.libos -lcom.eqela.libstringutil -lcom.eqela.libio -leq.api -L. -static-libstdc++ -static-libgcc -mwindows -lgdiplus -ld2d1 -lwindowscodecs -lole32 -ldwrite -lgdi32
+depends: eq.api,com.eqela.libio,com.eqela.libos,com.eqela.libguiengine,com.eqela.libgui,com.eqela.libspriteengine,com.eqela.libspriteengine
+moduletype: customguiapplication
+platform: win7m32
+url: 
+license: 
+copyright: 
+version: 1.0.0
+description: 
+displayname: Game101
+id: com.Game101.mycompany.game101
